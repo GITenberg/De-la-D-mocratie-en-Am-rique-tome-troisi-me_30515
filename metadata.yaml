@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/424
     wikipedia: http://en.wikipedia.org/wiki/Alexis_de_Tocqueville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30515#De-la-D-mocratie-en-Am-rique-tome-troisi-me
 gutenberg_bookshelf: FR Politique
 gutenberg_issued: '2009-11-21'
 gutenberg_type: Text
