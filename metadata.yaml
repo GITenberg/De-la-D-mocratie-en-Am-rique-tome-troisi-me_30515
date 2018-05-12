@@ -1,0 +1,35 @@
+_repo: De-la-D-mocratie-en-Am-rique-tome-troisi-me_30515
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tocqueville, Alexis de
+    aliases:
+    - Tocqueville, Alexis Charles Henri Maurice Clérel de
+    - De Tocqueville, Alexis
+    - Tocqueville, Alexis Charles Henri Maurice Clerel de
+    - Toqueville, Alexis de
+    birthdate: 1805
+    deathdate: 1859
+    gutenberg_agent_id: '424'
+    url: http://www.gutenberg.org/2009/agents/424
+    wikipedia: http://en.wikipedia.org/wiki/Alexis_de_Tocqueville
+description: ''
+gutenberg_bookshelf: FR Politique
+gutenberg_issued: '2009-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30515'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social conditions'
+- !lcc 'JK'
+- !lcsh 'Democracy -- United States'
+- !lcsh 'United States -- Politics and government'
+title: De la Démocratie en Amérique, tome troisième
+url: http://www.gutenberg.org/ebooks/30515
